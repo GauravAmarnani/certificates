@@ -1,0 +1,1 @@
+This is the SQL Certification from Hackerrank that tested my knowledge on backend data retrieval from multiple tables.
