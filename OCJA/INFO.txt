@@ -1,0 +1,5 @@
+This will be the Oracle Certification I get from clearing OCJA-IZ0-808 Certification Exam. 
+OCJA IZ0-808 focuses on Java 8 new features like Java and all the base Java features and OOP Concepts in depth. 
+It is a great starting point for someone planning on getting Java Certifications.
+Currently I'm waiting for Oracle to approve my exam, so I can schedule it and give the exam. 
+I've been preparing since 3-4 months now and have had around 4 years of experience in writing Java Code for projects and assignments.
